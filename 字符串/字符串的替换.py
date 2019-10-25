@@ -1,0 +1,10 @@
+print('='*20,'字符串的替换','='*20)
+s='welcome to qytang'
+ss=s.replace('qytang','cisco')
+print(ss)
+print('='*20,'字符串大小写转换','='*20)
+sss=s.upper()
+print(sss)
+print('='*20,'查找字符串的位置','='*20)
+ssss=s.find('to')
+print(ssss)
